@@ -6,7 +6,8 @@
 
 # 🔐 ZIP Password Cracker Suite – CLI (EN/DE)
 
-
+|<img width="1280" height="640" alt="z" src="https://github.com/user-attachments/assets/60525b4e-8cde-4520-ab9e-2d124312c60f" />|
+|---|
 
 **ZIP Password Cracker Suite** is a platform-independent Python tool for recovering passwords from ZIP archives via dictionary or brute-force attack – fully interactive in the terminal, no classic GUI required.  
 All texts, menus and status displays can be switched live between **English and German**.
