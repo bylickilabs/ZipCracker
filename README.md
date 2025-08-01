@@ -1,5 +1,5 @@
-|[![VirusTotal](https://img.shields.io/badge/VirusTotal-Scan-blue.svg)](https://www.virustotal.com/gui/file/ba7aa820f4bc70afc6d14230963e53af5f97c8231df011320324ab3d8f0abf52?nocache=1)|
-|--|
+|protected.zip Scan ► |[![VirusTotal](https://img.shields.io/badge/VirusTotal-Scan-blue.svg)](https://www.virustotal.com/gui/file/ba7aa820f4bc70afc6d14230963e53af5f97c8231df011320324ab3d8f0abf52?nocache=1)|
+|---|---|
 
 | ![python](https://img.shields.io/badge/python-3.8%2B-blue) | ![platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey) | ![license](https://img.shields.io/badge/license-MIT-brightgreen) |
 |---|---|---|
